@@ -1,0 +1,21 @@
+.btn_container{
+    position: relative;
+    justify-content: left;
+}
+
+.btn_container input {
+    background-color: blue;
+    color: #FFF;
+    margin-top: 10px;
+    border: none;
+    padding: 10px;
+    font-size: 1em;
+    font-weight: bold;
+    transition: .3s;
+    justify-content: left;
+}
+
+.btn_container input:hover {
+    background-color: #333;
+    cursor: pointer;
+}

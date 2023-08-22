@@ -3,7 +3,7 @@ import FormDefault from "./contents/forms/FormDefault";
 function App() {
   return (
     <div>
-      <FormDefault />
+      <FormDefault title='Criar Conta' />
     </div>
   );
 }

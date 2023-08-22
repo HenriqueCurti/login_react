@@ -1,0 +1,22 @@
+.input_container{ 
+    margin: 5px;   
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    width: 80%;
+}
+
+.input_container label {    
+    font-size: 1.1em;    
+}
+.input_container input{
+    padding: 5px;
+    border: none;
+    border-radius: 0;    
+    font-size: 1.2em;
+}
+
+.input_container input:focus  {
+    background-color: rgb(207, 200, 200);
+}
+
